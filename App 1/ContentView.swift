@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         
         VStack {
-            Text("Check out the latest dunks!")
+            Text("Check out the latest dunks!!")
                 .font(.title)
                 .foregroundColor(Color.purple)
             
